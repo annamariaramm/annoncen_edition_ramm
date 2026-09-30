@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-28">28. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_28_SD_PS_004">
+                <p>
+                    <occupation>Värdinna</occupation>. En <trait value="skill">musikalisk</trait>, <trait value="character">bildad</trait>
+                    <person sex="female" role="employee">dam af god familj</person>, med <trait value="skill">stor vana och erfarenhet i ett hems skötande</trait>, försedd med de <ref type="reference">bästa rekommendationer</ref>, söker plats såsom värdinna hos <person sex="male" role="employer">ungkarl</person> eller i <placeName type="employment">hem, där husmor saknas</placeName>. Svar tacksamt till '<label>Duglig</label>' <address type="application">P. R.</address>
+                    <placeName type="application" ref="#göteborg">Göteborg</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

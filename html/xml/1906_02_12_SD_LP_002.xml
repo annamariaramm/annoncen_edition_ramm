@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-12">12. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_12_SD_LP_002">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Tvätterska</occupation>
+                    </person>
+                    <trait type="skill">fullt kunnig i tvätt, strykning och mangling</trait> får god plats den <date when="1906-04-24" type="begin">24 April</date> i <placeName type="employment">stort herrskapshus</placeName> i <placeName type="employment" ref="#köpenhamn">Köpenhamn</placeName>, vidare genom <person sex="female" role="mediator">fröken Posse, Fosediel, Kulladal</person>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

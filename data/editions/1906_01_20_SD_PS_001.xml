@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-20">20. Janaur 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_01_20_SD_PS_001">
+                <p>
+                    <state type="reason">På grund af hemmets upplösning</state> söker en <trait type="character">intelligent</trait>
+                    <age type="approximate">medelålders</age>
+                    <person sex="female" role="employee">fru</person> från <placeName type="residence" ref="#stockholm">Stockholm</placeName> en <occupation>ledande ställning i ett välsitueradt hem</occupation>, helst hos <placeName type="employment">godsherre</placeName> i <placeName type="employment" ref="#skane">Skåne</placeName>. Den sökande har <trait type="character">utpregladt ordningssinne</trait> och <trait type="skill">alla betingelser för trefnad i ett hem</trait>, och <state type="aim">vill på alla sätt med intresse offra sig för hemmet</state>. Svar till '<label>Presentabel</label>', <address type="application">denna tidning</address>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

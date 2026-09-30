@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-16">16. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_16_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Kokerska</occupation>
+                    </person> till <placeName type="employment" ref="#köpenhamn">Köpenhamn</placeName>. En i <trait type="skill">finare matlagning fullt kompetent</trait> kokerska erhåller förmånlig plats den <date notBefore="1906-10-01" notAfter="1906-10-24" type="begin">1 eller 24 Oktober</date> i <person sex="unspecified" role="employer">svensk familj i Köpenhamn, 2 personer</person>. Ingen utan de <ref type="reference">bästa rekommendationer</ref> torde anmäla sig. Adress <person sex="female" role="mediator">Fru G. Barclay</person>, <street type="application">Strandvejen 4</street>, <placeName type="application" ref="#köpenhamn">Köpenhamn</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

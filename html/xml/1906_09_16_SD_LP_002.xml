@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-16">16. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_16_SD_LP_002">
+                <p>Utmärkta platser. För <state type="character">skickliga</state>
+                    <person sex="female" role="employee">
+                        <occupation>landthushållerskor</occupation>
+                    </person>, <trait type="skill">hemma i finare matlagning, konservering</trait> m. m. Vid. gen <person sex="unspecified" role="mediator">Th. Tjäders Byrå</person>, <street type="application">Brunkebergstorg 12</street>, <placeName type="application" ref="#stockholm">Stockholm</placeName>. <idno type="advertisement">STA 174359</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

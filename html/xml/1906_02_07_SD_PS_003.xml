@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-07">07. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_07_SD_PS_003">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Hushållerska</occupation>
+                    </person> eller <person sex="female" role="employee">
+                        <occupation>Kokerska</occupation>
+                    </person>, <age type="approximate">medelålders</age>, <trait type="skill">praktiserad</trait>, söker plats till <date when="1906-05-01" type="begin">1 Maj</date> hos <person sex="unspecified" role="employer">familj</person> eller <person sex="male" role="employer">ungherre</person>. <ref type="reference">Goda rek</ref>. Svar till <person sex="unspecified" role="mediator">E. Andersson</person>, <street role="application">Kungsgatan 6¹¹¹</street> , <placeName type="application" ref="#helsingborg">Helsingborg</placeName>. <idno role="advertisement">STAH 11585</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

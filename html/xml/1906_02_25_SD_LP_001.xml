@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-25">25. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_25_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Hushållerskor</occupation>
+                    </person>, <person sex="female" role="employee">
+                        <occupation>kokerskor</occupation>
+                    </person> (<measure type="salary" quantity="200–300" unit="kronor">lön 200–300</measure>), <person sex="female" role="employee">
+                        <occupation>kammarjungfrur</occupation>
+                    </person> (<measure type="salary" quantity="225" unit="kronor">225</measure>), vana <person sex="female" role="employee">
+                        <occupation>städerskor</occupation>
+                    </person> (<measure type="salary" quantity="150–200" unit="kronor">150–200</measure>), <person sex="female" role="employee">
+                        <occupation>tvätterskor</occupation>
+                    </person> (<measure type="salary" quantity="180–200" unit="kronor">180–200</measure>) <person sex="female" role="employee">
+                        <occupation>barn- &amp; ensamjungfrur</occupation>
+                    </person> (<measure type="salary" quantity="100–200" unit="kronor">100–200</measure>), m. fl. erhålla präktiga platser den 28 april i <placeName type="employment" ref="#malmö">Malmö</placeName>, <placeName type="employment">andra städer och orter, slott och herregårdar</placeName>. <ref type="reference">Insänd bet.</ref>
+                    <date type="apply">snarast</date>. <state type="requirement">Svar mot 20 öre</state>. <person sex="unspecified" role="mediator">Rydows agentur</person>, <street type="application">6 Davidshallgat.</street>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">STM 125922</idno>-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

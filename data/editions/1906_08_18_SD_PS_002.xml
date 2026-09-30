@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-18">18. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_18_SD_PS_002">
+                <p>Platser sökas den <date when="1906-10-28" type="begin">28 Okt</date>. af <trait type="skill">vand</trait>
+                    <person sex="female" role="employee">
+                        <occupation>kammarjungfru</occupation>
+                    </person>, <person sex="female" role="employee">
+                        <occupation>tvätterska</occupation>
+                    </person>, (<trait type="skill">skicklig i glansstrykning</trait>) som <person sex="female" role="employee">
+                        <occupation>städerska</occupation>
+                    </person> eller <person sex="female" role="employee">
+                        <occupation>1:sta tvätterska</occupation>
+                    </person>. <ref type="reference">Prima betyg.</ref>
+                    <person sex="unspecified" role="mediator">Rydows Agentur</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. Tel. <num type="phone">1477</num>. Svar mot <measure type="portp" quantity="20" unit="öre">20 öre</measure>. <idno type="advertisement">STM 134393</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

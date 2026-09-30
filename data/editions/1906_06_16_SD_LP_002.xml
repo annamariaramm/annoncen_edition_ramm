@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-06-16">16. Juni 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_06_16_SD_LP_002">
+                <p>För en allvarligt <trait type="character">sinnad</trait>, <trait type="character">öfvad</trait>
+                    <person sex="female" role="employee">
+                        <occupation>städerska</occupation>
+                    </person> finnes plats å <placeName type="employment" ref="#tunna">Tunna</placeName> vid <placeName type="employment" ref="#lund">Lund</placeName>, att tillträda den <date when="1906-10-24" type="begin">24 nästkommande oktober</date>. Anmälan, <placeName type="application">helst personligen</placeName>, bör göras med <date type="apply">snaraste</date>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-31">31. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_31_SD_PS_001">
+                <p>Som <occupation>husförestånderska</occupation> hos <age type="approximate">äldre</age>, <person sex="male" role="employer">respektabel herre</person> önskar en <trait type="character">praktisk</trait>
+                    <person sex="female" role="employee">flicka</person> plats, är <trait type="skill">kunnig i finare o. enklare matlagning</trait> och föröfrigt i <trait type="skill">allt som hör till ett hushålls skötande</trait>. Svar till '<label>L. G.</label>', <placeName type="application" ref="#gullberna">Gullberna</placeName> (<placeName type="application" ref="#blekinge">Blekinge</placeName>).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-25">25. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_25_SD_LP_001">
+                <p>
+                    <trait type="character">Duglig</trait>
+                    <person sex="female" role="employee">
+                        <occupation>kokerska</occupation>
+                    </person> och <person sex="female" role="employee">
+                        <occupation>husjungfru</occupation>
+                    </person> erhålla plats från <date when="1906-10-01" type="begin">1 Okt</date>. i <placeName type="employment" ref="#malmö">Malmö</placeName>. Svar snarast till <person sex="male" role="mediator">löjtnant G. von Platen</person>, <street type="application">Bondegatan 8</street>, <placeName type="application" ref="#stockholm">Stockholm</placeName>. <idno type="advertisement">STM 129942</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906 1906_09_30_SD_PS_001</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-30">30. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_30_SD_PS_001">
+                <p>
+                    <occupation>Städerskeplats</occupation> å kontor eller hos <person sex="male" role="employer">ungherre</person> önskas af <age type="approximate">medelålders</age>
+                    <person sex="female" role="employee">änka</person>. Svar emotses tacksamt till '<label>25</label>', <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="application">GAM 148951</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

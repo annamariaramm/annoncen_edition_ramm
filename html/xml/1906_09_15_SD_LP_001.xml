@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906 1906_09_15_SD_LP_001</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-15">15. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_15_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Hushållerskor</occupation>
+                    </person>, <person sex="female" role="employee">
+                        <occupation>kokerskor</occupation>
+                    </person>, <trait type="skill">vana</trait>
+                    <person sex="female" role="employee">
+                        <occupation>städerskor</occupation>
+                    </person>, <person sex="female" role="employee">
+                        <occupation>ensamjungfrur</occupation>
+                    </person>
+                    <trait type="skill">fullt kunniga i matlagning</trait>, <person sex="female" role="employee">
+                        <occupation>tvätterskor</occupation>
+                    </person>, m. fl. få förmånliga platser den <date when="1906-10-28" type="begin">28 Okt.</date> i <placeName type="employment" ref="#malmö">Malmö</placeName>, <placeName type="employment">andra städer, herregårdar och stationssamhällen</placeName>. <ref type="reference">Insänd originalhet</ref>, <date type="apply">snarast</date>. Svar mot <measure type="porto" quantity="20" unit="öre">20 öre</measure>. <person sex="unspecified" role="mediator">Rydows Agentur</person>, <street type="application">Davidshallsg. 6</street>. <idno type="advertisement">STM 135703</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

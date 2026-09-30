@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-06">06. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_06_SD_LP_001">
+                <p>
+                    <person sex="male" role="employee">
+                        <occupation>Kuskplatsen</occupation>
+                    </person> härstädes ledig den <date when="1906-10-24" type="begin">24 nästk. Oktober</date>. Sökande bör vara <state type="marital">ogift</state>, <trait type="character">nykter</trait> och <trait type="character">villig</trait> samt <trait type="skill">kunna biträda med servering</trait>. <state type="requirement">Betyg från körskola erfordras</state>. <placeName type="employment">Bjersgård</placeName>
+                    <address type="application">pr</address>
+                    <placeName type="employment" ref="#klippan">Klippan</placeName>. <person sex="unspecified" role="mediator">J. Gyllenstierns</person>. (<idno type="advertisement">STM. 132422</idno>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

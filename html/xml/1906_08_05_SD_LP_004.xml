@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-05">05. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_05_SD_LP_004">
+                <p>
+                    <occupation>En à två statdrängar</occupation>
+                    <person sex="male" role="employee">statdrängar</person>, 1 <person sex="male" role="employee">
+                        <occupation>kuskpojke</occupation>
+                    </person> och 1 <person sex="female" role="employee">
+                        <occupation>mjölkpiga</occupation>
+                    </person> kunna få platser på <placeName type="application" ref="#fogdarp">Fogdarp</placeName> den <date when="1906-10-24" type="begin">24 Oktober</date> om <date type="apply">snar</date> anmälan sker. <idno type="advertisement">GAM 145873</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

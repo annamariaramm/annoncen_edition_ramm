@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-28">28. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_28_SD_LP_002">
+                <p>
+                    <faith>Mosaisk</faith>
+                    <person sex="female" role="employee">flicka</person>, som <trait type="skill">kan matlagning</trait>, sökes. <state type="requirement">Jungfru hålles dessutom</state>. Till samma ställe sökes en <trait type="character">snäll</trait>
+                    <trait type="character">duktig</trait>
+                    <trait type="character">svensk</trait>
+                    <person sex="female" role="employee">flicka</person>: <state type="requirement">god lön</state> gifves. Hänvändelse till <person sex="female" role="mediator">Fru F. Kopowski</person>, <street type="application">Vesterbrogade 82</street>, <placeName type="application" ref="#köpenhamn">Köpenhamn</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

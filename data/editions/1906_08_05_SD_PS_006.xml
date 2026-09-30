@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-05">05. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_05_SD_PS_006">
+                <p>
+                    <trait type="character">Huslig</trait>
+                    <person sex="female" role="employee">flicka från godt hem</person> önskar komma i <person sex="unspecified" role="employer">bildad familj</person> som <occupation>husmoders hjelp</occupation>. <ref type="reference">Betyg och referenser</ref> finnas. Svar till '<label>M</label>', <address type="application">poste restante</address>, <placeName type="application" ref="#billesholm">Billesholms Grafva</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

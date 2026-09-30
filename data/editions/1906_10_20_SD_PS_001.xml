@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-20">20. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_20_SD_PS_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Husföreståndarinneplats</occupation>
+                    </person> sökes af <trait type="skill">fullt kompetent</trait>
+                    <placeName type="residence" ref="#norrland">norrländska</placeName> som <trait type="experience">förut innehaft sådan anställning</trait>. Platsen sökes till <person sex="male" role="employer">änkemanshem</person>, pensionat eller hos <person sex="male" role="employer">ungherre</person>. Sökanden kan förete de allra <ref type="reference">bästa rekommendationer</ref>. Svar till '<label>Hemtrefnad</label>', <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#mamlö">Malmö</placeName>. GAM 150065</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-14">14. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_14_SD_PS_001">
+                <p>
+                    <occupation>Värdinna</occupation>. För en <trait type="character">musikalisk</trait>, <trait type="character">fint bildad</trait>
+                    <age type="approximate">medelålders</age>
+                    <person sex="female" role="employee">dam af god familj</person> och af särdeles <trait type="character">godt lynne</trait>, med <trait type="skill">sällsynt capacité på alla områden där hennes förmåga tages i anspråk</trait>, sökes plats, i <placeName type="employment">stad eller på landet</placeName>, <state type="requirement">där husmoder saknas</state>. De <ref type="reference">bästa referenser</ref> finnas. Svar till '<label>Angenämt hemlif</label>' under adress <person sex="unspecified" role="mediator">S. Gumælii Annonsbyrå</person>, <placeName type="application" ref="#stockholm">Stockholm</placeName> f. v. b. <idno type="application">G 24277</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

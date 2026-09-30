@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-31">31. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_31_SD_PS_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Herregårdshushållerska</occupation>
+                    </person>
+                    <age value="30">30 år gammal</age> och med <ref type="reference">prima betyg</ref> söker plats genom <person sex="unspecified" role="mediator">M. Hammars kontor</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. Telefon <num type="phone">1471</num>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

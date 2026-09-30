@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-09">09. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_09_SD_PS_002">
+                <p>En <age type="approximate">ung</age>
+                    <person sex="male" role="employee">man</person> som vill sätta sig in i <state type="aim">koskötsel</state> önskar plats från och med den <date when="1906-11-01" type="begin">1 nov. 1906</date> till och med den <date when="1907-04-01" type="end">1 April 1907</date> på en <placeName type="employment">icke allt för liten gård</placeName>, der det finnes en <state type="requirement">absolut förstklassig besätting</state>. Svar till '<label>Koskötareelev 1906</label>', <address type="application">Sk. Dagbl. kontor</address>, <placeName type="application" ref="#lund">Lund</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-09">09. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_09_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Hushållerska</occupation>
+                    </person>, <age type="approximate">medelålders</age>, som <trait type="skill">på egen hand kan sköta ett ungkarlshushåll</trait>, erhåller plats den <date when="1906-04-24" type="begin">24 April</date> hos <person sex="male" role="employer">landtbrukare</person>. <ref type="reference">Rekommendationer</ref> för <trait type="character">pålitlighet</trait>, <trait type="character">properhet</trait> och <trait type="character">duglighet</trait>
+                    <ref type="reference">jemte fotografi</ref> insändas till <person sex="unspecified" role="mediator">Svenska Telegrambyrån</person>, <placeName type="application" ref="#malmö">Malmö</placeName>, under märke '<label>Y. C.</label>' <date type="apply">inom 14 dagar</date>. <state type="requirement">Inga folk i kost</state>. <idno type="advertisement">STM 124758</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

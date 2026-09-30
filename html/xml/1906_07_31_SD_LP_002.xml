@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-31">31. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_31_SD_LP_002">
+                <p>En <person sex="female" role="employee">bättre flicka</person>, <trait type="skill">van vid landthushåll</trait>, får <date type="begin">strax</date> prima plats. Svar omgående under märke '<label>C. G.</label>' till <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">GAM 146051</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

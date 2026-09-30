@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-09">09. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_09_SD_LP_002">
+                <p>
+                    <occupation>Hushållerska</occupation>. En <state type="requirement">god, väl aflönad plats</state> finnes i <person sex="unspecified" role="employer">liten, fin familj</person> för en <trait type="character">enkel</trait>, <trait type="character">pålitlig</trait>
+                    <person sex="female" role="employee">person</person>, som <trait type="skill">med omsorg kan sköta matlagningen</trait>, <trait type="skill">ej är rädd för arbete</trait>, utan <state type="requirement">med intresse vill vara ett stöd och hjälp för en sjuklig husmoder</state>. <ref type="reference">Betyg och fotografi</ref> torde <date type="apply">snarast möjligt</date> sändas under adress: '<label>Välvillig</label>', <address type="application">poste restante</address>, <placeName type="application" ref="#lund">Lund</placeName>. (<idno type="advertisement">LB. 3531</idno>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

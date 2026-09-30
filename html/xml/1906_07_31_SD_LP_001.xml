@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-31">31. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_31_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Barnfröken</occupation>
+                    </person>, <trait type="character">verkligt barnkär</trait> och <trait type="character">pålitlig</trait>, med hem i <placeName type="residence" ref="#malmö">Malmö</placeName>
+                    <placeName type="employment" ref="#malmö">Malmö</placeName> erhåller god plats i Malmö. Svar till '<label>Gosse</label>', <address type="application">denna tidnings kontor</address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

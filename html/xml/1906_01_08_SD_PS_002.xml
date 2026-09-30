@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-08">08. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_01_08_SD_PS_002">
+                <p>En <person sex="female" role="employee">flicka</person>
+                    <ref type="reference">från enkelt men aktadt hem</ref> önskar <state type="requirement">mot fritt vivre</state> plats i <placeName type="employment">presthus</placeName> att <state type="aim">lära sig och hjelpa till hvad som förefaller</state>. Svar mottager <person sex="female" role="mediator">fru Dahlqvist</person>, <street type="application">Svartmangatan 25</street>, <placeName type="application" ref="#stockholm">Stockholm</placeName>. <idno type="advertisement">G 343</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

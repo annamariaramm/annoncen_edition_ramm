@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-04">04. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_04_SD_LP_002">
+                <p>En <age type="approximate">ej för ung</age>
+                    <person sex="female" role="employee">flicka af aktningsvärd familj</person> (eller <age type="approximate">ung</age>
+                    <person sex="female" role="employee">Enkefru</person>) kan få treflig sommarvistelse på naturskön egendom i <placeName type="employment" ref="#skane">Skåne</placeName>
+                    <state type="requirement">mot fritt vivre</state>, som <occupation>sällskap</occupation> till <age type="approximate">ung</age>
+                    <person sex="female" role="employer">fru</person>. Närmare i correspondens till '<label>Naturskön</label>' <address type="application">Gumælii Annonsb.</address>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">GAM 142457</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

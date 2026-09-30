@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-08">08. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_08_SD_PS_001">
+                <p>En <trait type="character">bättre</trait>, <age type="approximate">ung</age>
+                    <person sex="female" role="employee">dam</person>, som <trait type="experience">i fyra år förestått hushållet för 3 skolynglingar</trait> i <placeName type="residence" ref="#lund">Lund</placeName>, önskar sig <date type="begin">vid inst. termins början</date>
+                    <occupation>liknande plats</occupation>. <trait type="skill">Hjälp med läxorna lämnas</trait>. <trait type="skill">Behärskar fullständigt tyska språket</trait>. Svar till '<label>A. X.</label>', <address type="application">p. r.</address>
+                    <placeName type="application" ref="#hessleholm">Hessleholm</placeName>. <idno type="advertisement">STM 132336</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

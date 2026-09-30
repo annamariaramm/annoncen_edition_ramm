@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-21">21. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="translation_1906_01_21_SD_LP_001">
+                <div type="translation">
+                     <p>Eine <trait type="character">gebildete</trait> <age value="28">28</age> <age value="35">35-jährige</age> <person sex="female" role="employee">Jungfrau</person>, die <trait type="skill">einem einfachen Haushalt mit mehreren Kindern vorstehen kann</trait>, wird von einer <person role="employer">deutsch-schwedischen Familie</person> gesucht. Bewerbung <state type="requirement">mit Lohnvorstellungen</state> an <person sex="unspecified" role="employer">Aug. P. C. Goos</person>, <placeName type="application">Hamburg 7</placeName>.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

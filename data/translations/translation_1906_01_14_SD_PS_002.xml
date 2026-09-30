@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-14">14. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="translation_1906_01_14_SD_PS_002">
+                <div type="translation">
+                    <p>Ein <person sex="female" role="employee">Mädchen</person> aus einem <ref type="reference">einfachen, aber respektablen Heim</ref> wünscht <state type="requirement">gegen freies Wohnen</state> eine Stelle in einem <placeName type="employment">Pfarrhaus</placeName>, um <state type="aim">Haushaltsführung zu lernen und bei anfallenden Aufgaben zu helfen</state>. Antworten nimmt <person sex="female" role="mediator">Frau Dahlqvist</person>, <street type="application">Svartmangatan 25</street>, <placeName type="application" ref="#stockholm">Stockholm</placeName> entgegen <idno type="advertisement">G 343</idno>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Liste der Duplikate</p>
+            </sourceDesc>
+        </fileDesc>
+        <standOff>
+            <listRelation>
+                <relation xml:id="reprint_001" name="reprintGroup">
+                    <ptr target="#1906_01_08_SD_PS_001"/>
+                    <ptr target="#1906_01_14_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_002" name="reprintGroup">
+                    <ptr target="#1906_01_08_SD_PS_002"/>
+                    <ptr target="#1906_01_14_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_003" name="reprintGroup">
+                    <ptr target="#1906_01_18_SD_LP_001"/>
+                    <ptr target="#1906_01_21_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_004" name="reprintGroup">
+                    <ptr target="#1906_01_19_SD_PS_001"/>
+                    <ptr target="#1906_01_21_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_005" name="reprintGroup">
+                    <ptr target="#1906_01_22_SD_PS_001"/>
+                    <ptr target="#1906_01_28_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_006" name="reprintGroup">
+                    <ptr target="#1906_01_24_SD_PS_001"/>
+                    <ptr target="#1906_01_28_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_007" name="reprintGroup">
+                    <ptr target="#1906_01_25_SD_LP_001"/>
+                    <ptr target="#1906_01_28_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_008" name="reprintGroup">
+                    <ptr target="#1906_01_26_SD_LP_001"/>
+                    <ptr target="#1906_01_28_SD_LP_001"/>
+                    <ptr target="#1906_01_31_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_009" name="reprintGroup">
+                    <ptr target="#1906_01_31_SD_LP_001"/>
+                    <ptr target="#1906_02_04_SD_LP_001"/>
+                    <ptr target="#1906_02_08_SD_LP_001"/>
+                    <ptr target="#1906_02_11_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_010" name="reprintGroup">
+                    <ptr target="#1906_02_06_SD_PS_002"/>
+                    <ptr target="#1906_02_07_SD_PS_001"/>
+                    <ptr target="#1906_02_08_SD_PS_002"/>
+                    <ptr target="#1906_02_11_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_011" name="reprintGroup">
+                    <ptr target="#1906_02_06_SD_PS_002"/>
+                    <ptr target="#1906_02_08_SD_PS_001"/>
+                    <ptr target="#1906_02_11_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_012" name="reprintGroup">
+                    <ptr target="#1906_02_06_SD_PS_003"/>
+                    <ptr target="#1906_02_11_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_013" name="reprintGroup">
+                    <ptr target="#1906_02_07_SD_PS_002"/>
+                    <ptr target="#1906_02_11_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_014" name="reprintGroup">
+                    <ptr target="#1906_02_07_SD_PS_003"/>
+                    <ptr target="#1906_02_11_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_015" name="reprintGroup">
+                    <ptr target="#1906_02_09_SD_LP_001"/>
+                    <ptr target="#1906_02_11_SD_LP_001"/>
+                    <ptr target="#1906_02_12_SD_LP_001"/>
+                    <ptr target="#1906_02_14_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_016" name="reprintGroup">
+                    <ptr target="#1906_02_09_SD_LP_002"/>
+                    <ptr target="#1906_02_11_SD_LP_002"/>
+                    <ptr target="#1906_02_12_SD_LP_002"/>
+                    <ptr target="#1906_02_15_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_017" name="reprintGroup">
+                    <ptr target="#1906_02_20_SD_LP_001"/>
+                    <ptr target="#1906_02_22_SD_LP_001"/>
+                    <ptr target="#1906_02_24_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_018" name="reprintGroup">
+                    <ptr target="#1906_02_20_SD_PS_001"/>
+                    <ptr target="#1906_02_27_SD_PS_001"/>
+                    <ptr target="#1906_03_06_SD_PS_001"/>
+                    <ptr target="#1906_03_11_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_019" name="reprintGroup">
+                    <ptr target="#1906_02_22_SD_PS_001"/>
+                    <ptr target="#1906_02_24_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_020" name="reprintGroup">
+                    <ptr target="#1906_02_23_SD_LP_001"/>
+                    <ptr target="#1906_02_25_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_021" name="reprintGroup">
+                    <ptr target="#1906_03_07_SD_PS_001"/>
+                    <ptr target="#1906_03_11_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_022" name="reprintGroup">
+                    <ptr target="#1906_03_15_SD_LP_001"/>
+                    <ptr target="#1906_03_17_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_023" name="reprintGroup">
+                    <ptr target="#1906_03_17_SD_LP_002"/>
+                    <ptr target="#1906_03_25_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_024" name="reprintGroup">
+                    <ptr target="#1906_03_20_SD_LP_001"/>
+                    <ptr target="#1906_03_21_SD_LP_001"/>
+                    <ptr target="#1906_03_25_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_025" name="reprintGroup">
+                    <ptr target="#1906_03_20_SD_PS_001"/>
+                    <ptr target="#1906_03_25_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_026" name="reprintGroup">
+                    <ptr target="#1906_03_22_SD_PS_001"/>
+                    <ptr target="#1906_03_25_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_027" name="reprintGroup">
+                    <ptr target="#1906_03_26_SD_PS_001"/>
+                    <ptr target="#1906_04_01_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_028" name="reprintGroup">
+                    <ptr target="#1906_03_27_SD_PS_001"/>
+                    <ptr target="#1906_04_01_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_029" name="reprintGroup">
+                    <ptr target="#1906_03_28_SD_LP_001"/>
+                    <ptr target="#1906_04_01_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_030" name="reprintGroup">
+                    <ptr target="#1906_03_28_SD_LP_002"/>
+                    <ptr target="#1906_03_29_SD_LP_001"/>
+                    <ptr target="#1906_03_30_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_031" name="reprintGroup">
+                    <ptr target="#1906_03_31_SD_PS_001"/>
+                    <ptr target="#1906_04_01_SD_PS_001"/>
+                    <ptr target="#1906_04_02_SD_PS_002"/>
+                    <ptr target="#1906_04_04_SD_PS_001"/>
+                    <ptr target="#1906_04_07_SD_PS_001"/>
+                    <ptr target="#1906_04_08_SD_PS_002"/>
+                    <ptr target="#1906_04_09_SD_PS_001"/>
+                    <ptr target="#1906_04_11_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_032" name="reprintGroup">
+                    <ptr target="#1906_04_02_SD_PS_001"/>
+                    <ptr target="#1906_04_08_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_033" name="reprintGroup">
+                    <ptr target="#1906_04_05_SD_PS_001"/>
+                    <ptr target="#1906_04_08_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_034" name="reprintGroup">
+                    <ptr target="#1906_04_06_SD_PS_001"/>
+                    <ptr target="#1906_04_08_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_035" name="reprintGroup">
+                    <ptr target="#1906_04_23_SD_PS_001"/>
+                    <ptr target="#1906_04_25_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_036" name="reprintGroup">
+                    <ptr target="#1906_04_25_SD_PS_002"/>
+                    <ptr target="#1906_04_29_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_037" name="reprintGroup">
+                    <ptr target="#1906_05_02_SD_PS_001"/>
+                    <ptr target="#1906_05_03_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_038" name="reprintGroup">
+                    <ptr target="#1906_05_04_SD_LP_001"/>
+                    <ptr target="#1906_05_07_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_039" name="reprintGroup">
+                    <ptr target="#1906_05_14_SD_PS_001"/>
+                    <ptr target="#1906_05_17_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_040" name="reprintGroup">
+                    <ptr target="#1906_05_23_SD_LP_001"/>
+                    <ptr target="#1906_05_25_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_041" name="reprintGroup">
+                    <ptr target="#1906_05_28_SD_PS_001"/>
+                    <ptr target="#1906_06_03_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_042" name="reprintGroup">
+                    <ptr target="#1906_05_30_SD_PS_001"/>
+                    <ptr target="#1906_06_03_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_043" name="reprintGroup">
+                    <ptr target="#1906_05_31_SD_PS_001"/>
+                    <ptr target="#1906_06_03_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_044" name="reprintGroup">
+                    <ptr target="#1906_06_16_SD_LP_001"/>
+                    <ptr target="#1906_06_18_SD_LP_001"/>
+                    <ptr target="#1906_07_01_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_045" name="reprintGroup">
+                    <ptr target="#1906_06_19_SD_LP_001"/>
+                    <ptr target="#1906_07_01_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_046" name="reprintGroup">
+                    <ptr target="#1906_06_20_SD_PS_001"/>
+                    <ptr target="#1906_06_27_SD_PS_001"/>
+                    <ptr target="#1906_07_01_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_047" name="reprintGroup">
+                    <ptr target="#1906_06_30_SD_PS_001"/>
+                    <ptr target="#1906_07_02_SD_PS_001"/>
+                    <ptr target="#1906_07_08_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_048" name="reprintGroup">
+                    <ptr target="#1906_07_04_SD_PS_001"/>
+                    <ptr target="#1906_07_06_SD_PS_001"/>
+                    <ptr target="#1906_07_08_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_049" name="reprintGroup">
+                    <ptr target="#1906_07_05_SD_LP_001"/>
+                    <ptr target="#1906_07_18_SD_LP_001"/>
+                    <ptr target="#1906_07_22_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_050" name="reprintGroup">
+                    <ptr target="#1906_07_06_SD_LP_001"/>
+                    <ptr target="#1906_07_08_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_051" name="reprintGroup">
+                    <ptr target="#1906_07_10_SD_PS_001"/>
+                    <ptr target="#1906_07_12_SD_PS_001"/>
+                    <ptr target="#1906_07_14_SD_PS_001"/>
+                    <ptr target="#1906_07_15_SD_PS_001"/>
+                    <ptr target="#1906_07_16_SD_PS_001"/>
+                    <ptr target="#1906_07_22_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_052" name="reprintGroup">
+                    <ptr target="#1906_07_12_SD_LP_001"/>
+                    <ptr target="#1906_07_15_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_053" name="reprintGroup">
+                    <ptr target="#1906_07_20_SD_PS_001"/>
+                    <ptr target="#1906_07_21_SD_PS_001"/>
+                    <ptr target="#1906_07_22_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_054" name="reprintGroup">
+                    <ptr target="#1906_07_21_SD_LP_001"/>
+                    <ptr target="#1906_07_22_SD_LP_001"/>
+                    <ptr target="#1906_07_23_SD_LP_002"/>
+                    <ptr target="#1906_07_25_SD_LP_001"/>
+                    <ptr target="#1906_07_29_SD_LP_006"/>
+                </relation>
+                <relation xml:id="reprint_055" name="reprintGroup">
+                    <ptr target="#1906_07_23_SD_LP_001"/>
+                    <ptr target="#1906_07_29_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_056" name="reprintGroup">
+                    <ptr target="#1906_07_23_SD_PS_001"/>
+                    <ptr target="#1906_07_29_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_057" name="reprintGroup">
+                    <ptr target="#1906_07_23_SD_PS_002"/>
+                    <ptr target="#1906_07_29_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_058" name="reprintGroup">
+                    <ptr target="#1906_07_23_SD_PS_003"/>
+                    <ptr target="#1906_07_29_SD_PS_007"/>
+                </relation>
+                <relation xml:id="reprint_059" name="reprintGroup">
+                    <ptr target="#1906_07_24_SD_LP_001"/>
+                    <ptr target="#1906_07_25_SD_LP_003"/>
+                    <ptr target="#1906_07_29_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_060" name="reprintGroup">
+                    <ptr target="#1906_07_24_SD_PS_001"/>
+                    <ptr target="#1906_07_29_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_061" name="reprintGroup">
+                    <ptr target="#1906_07_25_SD_LP_002"/>
+                    <ptr target="#1906_07_29_SD_LP_005"/>
+                </relation>
+                <relation xml:id="reprint_062" name="reprintGroup">
+                    <ptr target="#1906_07_25_SD_PS_001"/>
+                    <ptr target="#1906_07_27_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_063" name="reprintGroup">
+                    <ptr target="#1906_07_26_SD_PS_001"/>
+                    <ptr target="#1906_07_29_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_064" name="reprintGroup">
+                    <ptr target="#1906_07_27_SD_LP_001"/>
+                    <ptr target="#1906_07_29_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_065" name="reprintGroup">
+                    <ptr target="#1906_07_27_SD_PS_002"/>
+                    <ptr target="#1906_07_29_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_066" name="reprintGroup">
+                    <ptr target="#1906_07_28_SD_LP_001"/>
+                    <ptr target="#1906_07_29_SD_LP_001"/>
+                    <ptr target="#1906_07_30_SD_LP_001"/>
+                    <ptr target="#1906_08_01_SD_LP_001"/>
+                    <ptr target="#1906_08_03_SD_LP_003"/>
+                    <ptr target="#1906_08_05_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_067" name="reprintGroup">
+                    <ptr target="#1906_07_28_SD_PS_001"/>
+                    <ptr target="#1906_07_29_SD_PS_006"/>
+                    <ptr target="#1906_07_30_SD_PS_001"/>
+                    <ptr target="#1906_08_05_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_068" name="reprintGroup">
+                    <ptr target="#1906_07_31_SD_LP_002"/>
+                    <ptr target="#1906_08_02_SD_LP_001"/>
+                    <ptr target="#1906_08_04_SD_LP_001"/>
+                    <ptr target="#1906_08_05_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_069" name="reprintGroup">
+                    <ptr target="#1906_08_01_SD_PS_001"/>
+                    <ptr target="#1906_08_05_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_070" name="reprintGroup">
+                    <ptr target="#1906_08_02_SD_PS_001"/>
+                    <ptr target="#1906_08_03_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_071" name="reprintGroup">
+                    <ptr target="#1906_08_02_SD_PS_002"/>
+                    <ptr target="#1906_08_05_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_072" name="reprintGroup">
+                    <ptr target="#1906_08_03_SD_LP_001"/>
+                    <ptr target="#1906_08_05_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_073" name="reprintGroup">
+                    <ptr target="#1906_08_03_SD_LP_002"/>
+                    <ptr target="#1906_08_05_SD_LP_005"/>
+                </relation>
+                <relation xml:id="reprint_074" name="reprintGroup">
+                    <ptr target="#1906_08_04_SD_PS_001"/>
+                    <ptr target="#1906_08_05_SD_PS_006"/>
+                    <ptr target="#1906_08_07_SD_PS_001"/>
+                    <ptr target="#1906_08_12_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_075" name="reprintGroup">
+                    <ptr target="#1906_08_04_SD_PS_002"/>
+                    <ptr target="#1906_08_05_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_076" name="reprintGroup">
+                    <ptr target="#1906_08_08_SD_LP_001"/>
+                    <ptr target="#1906_08_09_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_077" name="reprintGroup">
+                    <ptr target="#1906_08_08_SD_LP_002"/>
+                    <ptr target="#1906_08_12_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_078" name="reprintGroup">
+                    <ptr target="#1906_08_08_SD_PS_001"/>
+                    <ptr target="#1906_08_12_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_079" name="reprintGroup">
+                    <ptr target="#1906_08_08_SD_PS_002"/>
+                    <ptr target="#1906_08_12_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_080" name="reprintGroup">
+                    <ptr target="#1906_08_09_SD_LP_002"/>
+                    <ptr target="#1906_08_11_SD_LP_001"/>
+                    <ptr target="#1906_08_12_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_081" name="reprintGroup">
+                    <ptr target="#1906_08_11_SD_PS_001"/>
+                    <ptr target="#1906_08_12_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_082" name="reprintGroup">
+                    <ptr target="#1906_08_12_SD_LP_003"/>
+                    <ptr target="#1906_08_22_SD_LP_002"/>
+                    <ptr target="#1906_08_26_SD_LP_003"/>
+                    <ptr target="#1906_09_24_SD_LP_001"/>
+                    <ptr target="#1906_09_30_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_083" name="reprintGroup">
+                    <ptr target="#1906_08_12_SD_LP_004"/>
+                    <ptr target="#1906_08_13_SD_LP_001"/>
+                    <ptr target="#1906_08_19_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_084" name="reprintGroup">
+                    <ptr target="#1906_08_13_SD_PS_001"/>
+                    <ptr target="#1906_08_19_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_085" name="reprintGroup">
+                    <ptr target="#1906_08_14_SD_LP_001"/>
+                    <ptr target="#1906_08_16_SD_LP_001"/>
+                    <ptr target="#1906_08_18_SD_LP_001"/>
+                    <ptr target="#1906_08_19_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_086" name="reprintGroup">
+                    <ptr target="#1906_08_14_SD_PS_001"/>
+                    <ptr target="#1906_08_19_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_087" name="reprintGroup">
+                    <ptr target="#1906_08_15_SD_PS_001"/>
+                    <ptr target="#1906_08_19_SD_PS_007"/>
+                </relation>
+                <relation xml:id="reprint_088" name="reprintGroup">
+                    <ptr target="#1906_08_16_SD_PS_001"/>
+                    <ptr target="#1906_08_19_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_089" name="reprintGroup">
+                    <ptr target="#1906_08_18_SD_LP_002"/>
+                    <ptr target="#1906_08_19_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_090" name="reprintGroup">
+                    <ptr target="#1906_08_18_SD_PS_001"/>
+                    <ptr target="#1906_08_19_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_091" name="reprintGroup">
+                    <ptr target="#1906_08_18_SD_PS_002"/>
+                    <ptr target="#1906_08_19_SD_PS_006"/>
+                    <ptr target="#1906_08_21_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_092" name="reprintGroup">
+                    <ptr target="#1906_08_18_SD_PS_003"/>
+                    <ptr target="#1906_08_19_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_093" name="reprintGroup">
+                    <ptr target="#1906_08_20_SD_PS_001"/>
+                    <ptr target="#1906_08_26_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_094" name="reprintGroup">
+                    <ptr target="#1906_08_22_SD_LP_001"/>
+                    <ptr target="#1906_08_26_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_095" name="reprintGroup">
+                    <ptr target="#1906_08_22_SD_PS_001"/>
+                    <ptr target="#1906_08_26_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_096" name="reprintGroup">
+                    <ptr target="#1906_08_22_SD_PS_002"/>
+                    <ptr target="#1906_08_26_SD_PS_006"/>
+                </relation>
+                <relation xml:id="reprint_097" name="reprintGroup">
+                    <ptr target="#1906_08_22_SD_PS_003"/>
+                    <ptr target="#1906_08_26_SD_PS_004"/>
+                    <ptr target="#1906_08_26_SD_PS_007"/>
+                </relation>
+                <relation xml:id="reprint_098" name="reprintGroup">
+                    <ptr target="#1906_08_23_SD_PS_001"/>
+                    <ptr target="#1906_08_26_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_099" name="reprintGroup">
+                    <ptr target="#1906_08_25_SD_LP_001"/>
+                    <ptr target="#1906_08_26_SD_LP_002"/>
+                    <ptr target="#1906_08_27_SD_LP_001"/>
+                    <ptr target="#1906_08_28_SD_LP_001"/>
+                    <ptr target="#1906_09_02_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_100" name="reprintGroup">
+                    <ptr target="#1906_08_25_SD_PS_001"/>
+                    <ptr target="#1906_08_26_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_101" name="reprintGroup">
+                    <ptr target="#1906_08_29_SD_LP_001"/>
+                    <ptr target="#1906_09_02_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_102" name="reprintGroup">
+                    <ptr target="#1906_08_29_SD_PS_001"/>
+                    <ptr target="#1906_09_01_SD_PS_001"/>
+                    <ptr target="#1906_09_02_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_103" name="reprintGroup">
+                    <ptr target="#1906_08_31_SD_LP_001"/>
+                    <ptr target="#1906_09_02_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_104" name="reprintGroup">
+                    <ptr target="#1906_08_31_SD_LP_002"/>
+                    <ptr target="#1906_09_02_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_105" name="reprintGroup">
+                    <ptr target="#1906_09_01_SD_LP_001"/>
+                    <ptr target="#1906_09_02_SD_LP_005"/>
+                </relation>
+                <relation xml:id="reprint_106" name="reprintGroup">
+                    <ptr target="#1906_09_04_SD_LP_001"/>
+                    <ptr target="#1906_09_07_SD_LP_001"/>
+                    <ptr target="#1906_09_09_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_107" name="reprintGroup">
+                    <ptr target="#1906_09_05_SD_LP_001"/>
+                    <ptr target="#1906_09_09_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_152" name="reprintGroup">
+                    <ptr target="#1906_09_15_SD_LP_001"/>
+                    <ptr target="#1906_09_16_SD_LP_003"/>
+                    <ptr target="#1906_09_19_SD_LP_001"/>
+                    <ptr target="#1906_09_23_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_108" name="reprintGroup">
+                    <ptr target="#1906_09_06_SD_LP_001"/>
+                    <ptr target="#1906_09_09_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_109" name="reprintGroup">
+                    <ptr target="#1906_09_06_SD_LP_002"/>
+                    <ptr target="#1906_09_09_SD_LP_003"/>
+                </relation>
+                <relation xml:id="reprint_110" name="reprintGroup">
+                    <ptr target="#1906_09_08_SD_LP_001"/>
+                    <ptr target="#1906_09_09_SD_LP_005"/>
+                    <ptr target="#1906_09_16_SD_LP_002"/>
+                    <ptr target="#1906_09_23_SD_LP_004"/>
+                    <ptr target="#1906_09_30_SD_LP_002"/>
+                    <ptr target="#1906_10_07_SD_LP_001"/>
+                    <ptr target="#1906_10_14_SD_LP_001"/>
+                    <ptr target="#1906_10_21_SD_LP_006"/>
+                    <ptr target="#1906_10_28_SD_LP_001"/>
+                    <ptr target="#1906_11_04_SD_LP_001"/>
+                    <ptr target="#1906_11_11_SD_LP_002"/>
+                    <ptr target="#1906_11_18_SD_LP_002"/>
+                    <ptr target="#1906_11_25_SD_LP_003"/>
+                    <ptr target="#1906_12_02_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_111" name="reprintGroup">
+                    <ptr target="#1906_09_08_SD_PS_001"/>
+                    <ptr target="#1906_09_09_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_112" name="reprintGroup">
+                    <ptr target="#1906_09_10_SD_PS_001"/>
+                    <ptr target="#1906_09_16_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_113" name="reprintGroup">
+                    <ptr target="#1906_09_13_SD_LP_001"/>
+                    <ptr target="#1906_09_16_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_114" name="reprintGroup">
+                    <ptr target="#1906_09_13_SD_PS_001"/>
+                    <ptr target="#1906_09_16_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_115" name="reprintGroup">
+                    <ptr target="#1906_09_14_SD_LP_001"/>
+                    <ptr target="#1906_09_16_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_116" name="reprintGroup">
+                    <ptr target="#1906_09_14_SD_PS_001"/>
+                    <ptr target="#1906_09_16_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_117" name="reprintGroup">
+                    <ptr target="#1906_09_15_SD_PS_001"/>
+                    <ptr target="#1906_09_16_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_118" name="reprintGroup">
+                    <ptr target="#1906_09_17_SD_PS_001"/>
+                    <ptr target="#1906_09_23_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_119" name="reprintGroup">
+                    <ptr target="#1906_09_18_SD_LP_001"/>
+                    <ptr target="#1906_09_19_SD_LP_002"/>
+                    <ptr target="#1906_09_20_SD_LP_001"/>
+                    <ptr target="#1906_09_23_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_120" name="reprintGroup">
+                    <ptr target="#1906_09_18_SD_PS_001"/>
+                    <ptr target="#1906_09_23_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_121" name="reprintGroup">
+                    <ptr target="#1906_09_21_SD_LP_001"/>
+                    <ptr target="#1906_09_23_SD_LP_001"/>
+                    <ptr target="#1906_09_25_SD_LP_001"/>
+                    <ptr target="#1906_09_29_SD_LP_001"/>
+                    <ptr target="#1906_09_30_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_122" name="reprintGroup">
+                    <ptr target="#1906_09_22_SD_PS_001"/>
+                    <ptr target="#1906_09_23_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_123" name="reprintGroup">
+                    <ptr target="#1906_09_28_SD_PS_001"/>
+                    <ptr target="#1906_09_30_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_124" name="reprintGroup">
+                    <ptr target="#1906_10_05_SD_PS_001"/>
+                    <ptr target="#1906_10_07_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_125" name="reprintGroup">
+                    <ptr target="#1906_10_08_SD_PS_001"/>
+                    <ptr target="#1906_10_14_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_126" name="reprintGroup">
+                    <ptr target="#1906_10_09_SD_PS_001"/>
+                    <ptr target="#1906_10_14_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_127" name="reprintGroup">
+                    <ptr target="#1906_10_09_SD_PS_002"/>
+                    <ptr target="#1906_10_10_SD_PS_001"/>
+                    <ptr target="#1906_10_14_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_128" name="reprintGroup">
+                    <ptr target="#1906_10_10_SD_PS_002"/>
+                    <ptr target="#1906_10_11_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_129" name="reprintGroup">
+                    <ptr target="#1906_10_15_SD_LP_001"/>
+                    <ptr target="#1906_10_18_SD_LP_001"/>
+                    <ptr target="#1906_10_21_SD_LP_003"/>
+                    <ptr target="#1906_10_25_SD_LP_002"/>
+                    <ptr target="#1906_10_28_SD_LP_003"/>
+                    <ptr target="#1906_11_04_SD_LP_002"/>
+                    <ptr target="#1906_11_11_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_130" name="reprintGroup">
+                    <ptr target="#1906_10_16_SD_LP_001"/>
+                    <ptr target="#1906_10_21_SD_LP_004"/>
+                </relation>
+                <relation xml:id="reprint_131" name="reprintGroup">
+                    <ptr target="#1906_10_17_SD_PS_001"/>
+                    <ptr target="#1906_10_19_SD_PS_001"/>
+                    <ptr target="#1906_11_21_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_132" name="reprintGroup">
+                    <ptr target="#1906_10_19_SD_LP_001"/>
+                    <ptr target="#1906_10_21_SD_LP_005"/>
+                </relation>
+                <relation xml:id="reprint_133" name="reprintGroup">
+                    <ptr target="#1906_10_20_SD_LP_001"/>
+                    <ptr target="#1906_10_21_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_134" name="reprintGroup">
+                    <ptr target="#1906_10_20_SD_PS_001"/>
+                    <ptr target="#1906_10_21_SD_PS_002"/>
+                    <ptr target="#1906_10_22_SD_PS_001"/>
+                    <ptr target="#1906_10_28_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_135" name="reprintGroup">
+                    <ptr target="#1906_10_21_SD_LP_001"/>
+                    <ptr target="#1906_10_28_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_136" name="reprintGroup">
+                    <ptr target="#1906_10_22_SD_PS_002"/>
+                    <ptr target="#1906_10_28_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_137" name="reprintGroup">
+                    <ptr target="#1906_10_22_SD_PS_003"/>
+                    <ptr target="#1906_10_28_SD_PS_004"/>
+                </relation>
+                <relation xml:id="reprint_138" name="reprintGroup">
+                    <ptr target="#1906_10_27_SD_PS_001"/>
+                    <ptr target="#1906_10_28_SD_PS_005"/>
+                </relation>
+                <relation xml:id="reprint_139" name="reprintGroup">
+                    <ptr target="#1906_10_27_SD_PS_002"/>
+                    <ptr target="#1906_10_28_SD_PS_003"/>
+                    <ptr target="#1906_10_29_SD_PS_001"/>
+                    <ptr target="#1906_11_04_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_140" name="reprintGroup">
+                    <ptr target="#1906_10_30_SD_PS_001"/>
+                    <ptr target="#1906_10_31_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_141" name="reprintGroup">
+                    <ptr target="#1906_11_14_SD_PS_001"/>
+                    <ptr target="#1906_11_15_SD_PS_001"/>
+                    <ptr target="#1906_11_18_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_142" name="reprintGroup">
+                    <ptr target="#1906_11_21_SD_PS_001"/>
+                    <ptr target="#1906_11_23_SD_PS_001"/>
+                    <ptr target="#1906_11_25_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_143" name="reprintGroup">
+                    <ptr target="#1906_11_22_SD_PS_001"/>
+                    <ptr target="#1906_11_25_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_144" name="reprintGroup">
+                    <ptr target="#1906_11_22_SD_PS_002"/>
+                    <ptr target="#1906_11_25_SD_PS_001"/>
+                    <ptr target="#1906_11_29_SD_PS_003"/>
+                    <ptr target="#1906_12_02_SD_PS_003"/>
+                </relation>
+                <relation xml:id="reprint_145" name="reprintGroup">
+                    <ptr target="#1906_11_24_SD_LP_001"/>
+                    <ptr target="#1906_11_25_SD_LP_001"/>
+                </relation>
+                <relation xml:id="reprint_146" name="reprintGroup">
+                    <ptr target="#1906_11_29_SD_PS_001"/>
+                    <ptr target="#1906_12_01_SD_PS_001"/>
+                    <ptr target="#1906_12_02_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_147" name="reprintGroup">
+                    <ptr target="#1906_11_29_SD_PS_001"/>
+                    <ptr target="#1906_12_02_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_148" name="reprintGroup">
+                    <ptr target="#1906_12_01_SD_PS_002"/>
+                    <ptr target="#1906_12_02_SD_PS_004"/>
+                    <ptr target="#1906_12_03_SD_PS_001"/>
+                    <ptr target="#1906_12_04_SD_PS_002"/>
+                    <ptr target="#1906_12_09_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_149" name="reprintGroup">
+                    <ptr target="#1906_12_04_SD_PS_001"/>
+                    <ptr target="#1906_12_09_SD_PS_002"/>
+                </relation>
+                <relation xml:id="reprint_150" name="reprintGroup">
+                    <ptr target="#1906_12_15_SD_PS_001"/>
+                    <ptr target="#1906_12_16_SD_PS_001"/>
+                    <ptr target="#1906_12_19_SD_PS_001"/>
+                    <ptr target="#1906_12_23_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_151" name="reprintGroup">
+                    <ptr target="#1906_12_28_SD_LP_001"/>
+                    <ptr target="#1906_12_30_SD_LP_002"/>
+                </relation>
+                <relation xml:id="reprint_153" name="reprintGroup">
+                    <ptr target="#1906_01_03_SD_PS_001"/>
+                    <ptr target="#1906_01_07_SD_PS_001"/>
+                </relation>
+                <relation xml:id="reprint_154" name="reprintGroup">
+                    <ptr target="#1906_01_09_SD_PS_001"/>
+                    <ptr target="#1906_01_14_SD_PS_003"/>
+                </relation>
+            </listRelation>
+        </standOff>
+    </teiHeader>
+</TEI>

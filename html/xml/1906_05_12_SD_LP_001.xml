@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-12">12. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_12_SD_LP_001">
+                <p>En <age value="21">21 års</age>
+                    <trait type="skill">musikalisk</trait>
+                    <person sex="female" role="employee">flicka</person> önskar plats i <person sex="unspecified" role="employer">bättre familj</person> som <occupation>hjälp och sällskap</occupation>. Är <trait type="skill">kunnig i matlagning samt finare handarbeten</trait>
+                    <state type="requirement">Någon lön önskas</state>. Svat till '<label>Familjmedlem</label>' <address type="application">p. r.</address> Hammenhög. <idno type="advertisement">STM 129493</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

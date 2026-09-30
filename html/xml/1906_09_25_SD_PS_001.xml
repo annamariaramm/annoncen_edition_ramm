@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-25">25. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_25_SD_PS_001">
+                <p>Plats att <state type="aim">förestå hushåll</state> sökes af <age value="26">26 års</age>
+                    <person sex="female" role="employee">flicka</person>, <trait type="skill">van att på egen hand med ordning och intresse sköta ett hem</trait>. Svar till '<label>N. W.</label>', <placeName type="employment" ref="#wintrie">Wintrie</placeName>. <idno type="application">STM 136173</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

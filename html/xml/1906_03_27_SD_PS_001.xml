@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-03-27">27. März 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_03_27_SD_PS_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Fröken-Jungfru</occupation>
+                    </person>, <trait type="skill">fullkomligt kunnig i matlagning, städning och servering</trait> erhåller plats <date when="1906-04-24" type="begin">fr. o. m. den 24:de instundande April</date>. <measure type="salary" quantity="25" unit="kronor">Lön 25 kr. i månaden</measure> (mindre hushåll.) <ref type="reference">Prima betyg och referenser</ref>. Svar till: <person sex="unspecified" role="employer">Officersfamilj</person>
+                    <address type="application">p. r.</address>
+                    <placeName type="application" ref="#kristianstad">Kristianstad</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

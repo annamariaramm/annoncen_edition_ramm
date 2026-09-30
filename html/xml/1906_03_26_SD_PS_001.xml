@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-03-26">26. März 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_03_26_SD_PS_001">
+                <p>
+                    <state type="marital">Gift</state>, <age value="26">26-årig</age>
+                    <trait type="character">proper</trait>
+                    <person sex="male" role="employee">
+                        <occupation>kusk</occupation>
+                    </person>, <trait type="character">nykter</trait>, med <ref type="reference">utmärkta betyg från körskola i Malmö, och i öfrigt gods rekommendationer</ref>. <age value="40">40-årig</age>
+                    <person sex="male" role="employee">
+                        <occupation>ladugårdsfogde eller ladugårdsföreståndare</occupation>
+                    </person>
+                    <ref type="reference">med finaste betyg</ref> och <trait type="experience">mångårig praktik</trait> samt En <person sex="female" role="employee">
+                        <occupation>hushållerska</occupation>
+                    </person>
+                    <ref type="reference">med bästa betyg och vitsord</ref>
+                    <trait type="skill">att förestå större hushåll eller hotell</trait>, söka platser den <date when="1906-04-28" type="begin">24 April</date> genom <person sex="unspecified" role="mediator">Paul Åsps Kom.-Byrå</person>, <placeName type="application" ref="#skurup">Skurup</placeName>. <idno type="advertisement">STM 127398</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-08">08. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_08_SD_PS_001">
+                <p>
+                    <person sex="male" role="employee">
+                        <occupation>Hästägare</occupation>
+                    </person>. <trait type="character">Svensk-amerikan</trait>, <trait type="skill">van att sköta och köra hästar</trait>, söker plats. Har <trait type="experience">vistats 15 år i Amerika, däraf 10 år i New York som föreståndare för stall</trait>. Svar, märkt '<label>40 år</label>', under adr. <person sex="unspecified" role="mediator">S. Gumælii Annonsbyrå</person>, <placeName type="application" ref="#stockholm">Stockholm</placeName>, f. v. b. (<idno type="advertisement">G. 18694</idno>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

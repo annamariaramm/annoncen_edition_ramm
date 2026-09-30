@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-29">29. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_29_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Barnsköterska</occupation>
+                    </person>, <trait type="character">villig</trait> och <trait type="character">duglig</trait>, <trait type="skill">passande för kallet</trait>, erhåller förmånlig anställning i <person sex="enspecified" role="employer">yngre familj med två små flickor</person>. Platsen är i <placeName type="employment" ref="#skane">naturskön trakt på landet i norra Skåne</placeName>. <age type="approximate">Äldre</age>, erhåller föroträde. Svar till '<label>Direktör 68</label>', <address type="application">Svenska Telegrambyråns filial</address>, <placeName type="application" ref="#malmö">Malmö</placeName>, f. v. b. <idno type="advertisement">STM 136003</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

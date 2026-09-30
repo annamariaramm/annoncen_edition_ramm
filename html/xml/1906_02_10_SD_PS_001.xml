@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-10">10. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_10_SD_PS_001">
+                <p>
+                    <age value="30">30-årig</age>
+                    <state type="marital">ogift</state>
+                    <person sex="male" role="employee">
+                        <occupation>KUSK</occupation>
+                    </person>, <trait type="character">nykter</trait> och <trait type="character">pålitlig</trait>, <trait type="skill">kör och rider mycket väl</trait>, <trait type="skill">van att servera</trait>. <ref type="reference">1:sta kl. betyg</ref>, söker plats <date when="1906-04-24" type="begin">24 April</date>
+                    <person sex="unspecified" role="mediator">A. Bulling</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">Rikst. 349</idno>. <idno type="advertisement">STM 124816</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-24">24. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_24_SD_PS_001">
+                <p>
+                    <occupation>Kuskplats</occupation> sökes af <trait type="character">nykter</trait> och <trait type="character">pålitlig</trait>
+                    <person sex="male" role="employee">kusk</person>. Innehar <ref type="reference">goda betyg och rek</ref>, deribland ett <trait type="experience">för 10-årig tjenst å en af Skånes större herregårdar</trait>. Blir <ref type="begin">till hösten</ref> ledig tillfölje nuvarande principals afflyttning. Svar till '<label>Kusk</label>', <placeName type="application" ref="#ousbyholm">Ousbyholm</placeName>
+                    <address type="application">p. r.</address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

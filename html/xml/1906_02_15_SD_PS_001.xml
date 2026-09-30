@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-15">15. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_15_SD_PS_001">
+                <p>En <state type="requirement">nätt</state>
+                    <occupation>hushållerskeplats</occupation> hos <person sex="male" role="employer">bättre ungherre</person> önskas <trait type="skill">af dertill fullt kompetent</trait>
+                    <age value="26">26 års</age>
+                    <person sex="female" role="employee">flicka</person>, <trait type="character">proper</trait> och med <trait type="skill">lust för husliga göromål</trait>. Svar till '<label>Ensam</label>', <address type="application">denna tidnings kontor</address>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

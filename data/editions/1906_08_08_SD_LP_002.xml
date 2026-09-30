@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-08">08. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_08_SD_LP_002">
+                <p>
+                    <state type="marital">Ogift</state>
+                    <person sex="male" role="employee">
+                        <occupation>Betjent</occupation>
+                    </person> sökes till <placeName type="employment" ref="#stockholm">Stockholm</placeName>
+                    <date when="1906-10-24" type="begin">24 Okt.</date>
+                    <measure type="salary" quantity="450" unit="kronor">450 kr.</measure> livré m. m. Insänd <ref type="reference">betyg</ref>. <person sex="unpecified" role="mediator">A. Bulling</person>. Brefsvar mot <measure type="porto" quantity="2" unit="öre">2 porto</measure>- <idno type="advertisement">STM 133916</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

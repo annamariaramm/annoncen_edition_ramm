@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-17">17. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_17_SD_PS_001">
+                <p>
+                    <age type="approximate">Ung</age>, <person sex="female" role="employee">bättre flicka</person>, <age value="20">20 år</age>, som <trait type="experience">genomgått 8-kl. läroverk</trait>, önskar plats som <occupation>sällskap och hjälp</occupation> i <person sex="unspecified" role="employer">bättre familj</person>. Tacksam för svar till '<label>Hilda Å–u</label>', <street type="application">Brunnsgatan 14</street>
+                    <placeName type="application" ref="#jönköping">Jönköping</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

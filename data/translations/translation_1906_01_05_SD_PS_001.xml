@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-05">05. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="translation_1906_01_05_SD_PS_001">
+                <div type="translation">
+                    <p>Eine Stelle als <person sex="female" role="employee">
+                        <occupation>Vorsteherin des Haushalts</occupation>
+                    </person> wird von einer <person sex="female" role="employee">gebildeten Dame</person> gesucht, die mit <trait type="skill">Sparsamkeit und Ordnung ein Haus hübsch machen kann</trait>. <ref type="reference">Gute Referenzen</ref>. Beginnend <date type="begin">jetzt oder zum Frühling</date>. Antworten an '<label>B. D. 1906</label>', <address type="application">Büro dieser Zeitung</address>.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

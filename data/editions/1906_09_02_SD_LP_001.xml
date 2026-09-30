@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-02">02. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_02_SD_LP_001">
+                <p>
+                    <person sex="male" role="employee">
+                        <occupation>Betjent</occupation>
+                    </person>, <ref type="reference">välrekommenderad</ref>, får plats i <placeName type="employment">grefligt hus i stadt</placeName> genom <person sex="unspecified" role="mediator">A. Pålssons kom.-affär</person>, <street type="application">Södra Förstadtsg. 1 B</street>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

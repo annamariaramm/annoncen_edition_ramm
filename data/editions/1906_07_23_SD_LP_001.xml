@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-23">23. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_23_SD_LP_001">
+                <p>
+                    <age type="approximate">Ung</age>, <person sex="female" role="employee">bättre flicka</person> kan <state type="reason">på grund af sjukdom</state>
+                    <date type="begin">genast</date> erhålla plats. Sökanden bör vara <trait type="skill">fullt hemma i skötandet af större landthushåll</trait>. Adress: <person sex="female" role="mediator">Fru Clara Ganslandt</person>, <placeName type="application">Nygård</placeName>
+                    <address type="application">pr</address>
+                    <placeName type="application" ref="#smedstorp">Smedstorp</placeName>. <idno type="advertisement">GAM 145751</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

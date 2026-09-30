@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-24">24. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_24_SD_LP_001">
+                <p>
+                    <trait type="character">Skicklig</trait>
+                    <person sex="female" role="employee">
+                        <occupation>hushållerska</occupation>
+                    </person>, <trait type="skill">kompetent att sköta ett stort hushåll på landet</trait>, erhåller plats den <date when="1906-10-24" type="begin">24 Oktober</date> på <placeName type="employment">Övedskloster</placeName>. Svar till <person sex="female" role="mediator">friherrinnan Ramel</person>, adress <idno type="advertisement">GAM 145767</idno>
+                    <placeName type="employment">Övedsklosters Gård</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

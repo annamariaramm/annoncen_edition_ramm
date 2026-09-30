@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-04-25">25. April 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_04_25_SD_PS_002">
+                <p>
+                    <age type="approximate">Ung</age>
+                    <person sex="female" role="employee">flicka</person>, önskar komma i <person sex="unspecified" role="employer">god och vänlig familj</person> att vara <occupation>frun behjälplig</occupation>
+                    <state type="aim">med lättare inomhus förekommande göromål</state>, helst <state type="reason">der tillfälle gifves något lära hushåll</state>. Tacksam för svar till '<label>Postfack 32</label>', <placeName type="application" ref="#hvellinge">Hvellinge</placeName>. (<idno type="advertisement">GAM 141912)</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

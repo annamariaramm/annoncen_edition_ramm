@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-29">29. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_29_SD_LP_001">
+                <p>
+                    <trait type="character">Förstklassig</trait>
+                    <person sex="female" role="employee">
+                        <occupation>kokerska</occupation>
+                    </person> erhåller <date type="begin">genast</date> plats i <person sex="unspecified" role="employer">barnlös familj</person>. Hon bör kunna <trait type="skill">ordna större elegantare bord</trait>, <trait type="skill">vara kunnig i såväl enklare som finare matlagning</trait>, liksom <trait type="skill">äfven i vegeterianskt kök</trait>, <trait type="skill">ekonomisk</trait>, samt <trait type="skill">äga ett resonligt och godt lynne</trait>; vara <state type="requirement">villig följa med utomlands vintermånaderna</state>. <state type="requirement">Framtidsplats och god lön i fall ömsesidig belåtenhet</state>. Svar märkt '<label>12 A 64</label>', <address type="application">Helsongborgs Dagblad</address> bifogade <ref type="reference">rekommendationer i afskrift</ref> då de ej retournas. <state type="requirement">Sökande endast med ofvannämnda meriter</state>. <idno type="advertisement">STM 183453</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

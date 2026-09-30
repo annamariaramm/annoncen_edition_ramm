@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-04-08">08. April 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_04_08_SD_LP_001">
+                <p>En <trait type="character">svensk</trait>
+                    <person sex="female" role="employer">Enkefru</person> boende i <placeName type="employment" ref="#köpenhamn">Köpenhamn</placeName> om vintern, de fyra sommarmånaderna på <placeName type="employment">egen villa vid sundet</placeName>, söker till den <date when="1906-05-01" type="begin">1 Maj</date> en <trait type="character">fullt kompetent</trait>
+                    <person sex="female" role="employee">
+                        <occupation>kokerska</occupation>
+                    </person>
+                    <trait type="skill">kunnig i såväl den finare som den dagliga hushållningen</trait>. <ref type="reference">Goda anbefallningar jemte fotografi</ref> önskas tillsändt <person sex="female" role="application">fru konsulinnan Kylmé</person>, <street type="application">Gamle Kongevey N:o 1 E</street>, <placeName type="application" ref="#köpenhamn">Köpenhamn</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

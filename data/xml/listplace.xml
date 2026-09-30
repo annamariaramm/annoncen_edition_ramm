@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital, Liste der spezifisch genannten Orte</p>
+            </sourceDesc>
+        </fileDesc>
+<standOff>
+  <listPlace>
+    <place xml:id="perstorp">
+      <placeName>Perstorp</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.2, 13.366667</geo>
+      </location>
+    </place>
+    <place xml:id="skane">
+      <placeName>Skåne</placeName>
+      <measure type="frequency" subtype="employment" count="28"/>
+      <measure type="frequency" subtype="application" count="4"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.8472301, 13.6339292</geo>
+      </location>
+    </place>
+    <place xml:id="engelholm">
+      <placeName>Engelholm</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.1411109, 11.9817645</geo>
+      </location>
+    </place>
+    <place xml:id="stockholm">
+      <placeName>Stockholm</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="32"/>
+      <measure type="frequency" subtype="residence" count="1"/>
+      <location>
+        <geo>59.3251172, 18.0710935</geo>
+      </location>
+    </place>
+    <place xml:id="tagarp">
+      <placeName>Tågarp</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="4"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.9247727, 12.9548931</geo>
+      </location>
+    </place>
+    <place xml:id="malmö">
+      <placeName>Malmö</placeName>
+      <measure type="frequency" subtype="employment" count="36"/>
+      <measure type="frequency" subtype="application" count="128"/>
+      <measure type="frequency" subtype="residence" count="2"/>
+      <location>
+        <geo>55.6052931, 13.0001566</geo>
+      </location>
+    </place>
+    <place xml:id="trolleholm">
+      <placeName>Trolleholm</placeName>
+      <measure type="frequency" subtype="employment" count="3"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.9078114, 13.2658223</geo>
+      </location>
+    </place>
+    <place xml:id="sjöbo">
+      <placeName>Sjöbo</placeName>
+      <measure type="frequency" subtype="employment" count="4"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.633333, 13.683333</geo>
+      </location>
+    </place>
+    <place xml:id="helsingborg">
+      <placeName>Helsingborg</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="9"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.0442098, 12.703706</geo>
+      </location>
+    </place>
+    <place xml:id="köpenhamn">
+      <placeName>Kopenhagen</placeName>
+      <measure type="frequency" subtype="employment" count="12"/>
+      <measure type="frequency" subtype="application" count="13"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.6867243, 12.5700724</geo>
+      </location>
+    </place>
+    <place xml:id="näsbyholm">
+      <placeName>Näsbyholm</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>59.3689485, 16.9248637</geo>
+      </location>
+    </place>
+    <place xml:id="ystad">
+      <placeName>Ystad</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.4295203, 13.8201171</geo>
+      </location>
+    </place>
+    <place xml:id="eslöf">
+      <placeName>Eslöv</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.83903123170455, 13.302437087048052</geo>
+      </location>
+    </place>
+    <place xml:id="skurup">
+      <placeName>Skurup</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.4815088, 13.554477</geo>
+      </location>
+    </place>
+    <place xml:id="kristianstad">
+      <placeName>Kristianstad</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.0293778, 14.1566859</geo>
+      </location>
+    </place>
+    <place xml:id="taarnborg">
+      <placeName>Taarnborg</placeName>
+      <measure type="frequency" subtype="employment" count="3"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.3458482, 11.1426072</geo>
+      </location>
+    </place>
+    <place xml:id="korsor">
+      <placeName>Korsør</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="3"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.3266045, 11.1425876</geo>
+      </location>
+    </place>
+    <place xml:id="hvellinge">
+      <placeName>Vellinge</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.47135976800293, 13.019348650388464</geo>
+      </location>
+    </place>
+    <place xml:id="löfvestad">
+      <placeName>Lövestad</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="6"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.65390159205184, 13.891006069854788</geo>
+      </location>
+    </place>
+    <place xml:id="landskrona">
+      <placeName>Landskrona</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="9"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.8698007, 12.8296734</geo>
+      </location>
+    </place>
+    <place xml:id="karlskrona">
+      <placeName>Karlskrona</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.1621073, 15.5866422</geo>
+      </location>
+    </place>
+    <place xml:id="lund">
+      <placeName>Lund</placeName>
+      <measure type="frequency" subtype="employment" count="5"/>
+      <measure type="frequency" subtype="application" count="22"/>
+      <measure type="frequency" subtype="residence" count="3"/>
+      <location>
+        <geo>55.7029296, 13.1929449</geo>
+      </location>
+    </place>
+    <place xml:id="gullberna">
+      <placeName>Gullberna</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.191895, 15.6324043</geo>
+      </location>
+    </place>
+    <place xml:id="blekinge">
+      <placeName>Blekinge</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.1240605, 15.4023088</geo>
+      </location>
+    </place>
+    <place xml:id="grohed">
+      <placeName>Grohed</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>58.2827388, 11.8915587</geo>
+      </location>
+    </place>
+    <place xml:id="tunna">
+      <placeName>Tuna</placeName>
+      <measure type="frequency" subtype="employment" count="3"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>60.44722325295663, 15.479301566081189</geo>
+      </location>
+    </place>
+    <place xml:id="älfsbacka">
+      <placeName>Älvsbacka</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="3"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>59.738223928289386, 13.69181345750107</geo>
+      </location>
+    </place>
+    <place xml:id="hessleholm">
+      <placeName>Hässleholm</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="8"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.1588651432969, 13.766145435727555</geo>
+      </location>
+    </place>
+    <place xml:id="varberg">
+      <placeName>Varberg</placeName>
+      <measure type="frequency" subtype="employment" count="3"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>57.1057412, 12.2502949</geo>
+      </location>
+    </place>
+    <place xml:id="göteborg">
+      <placeName>Göteborg</placeName>
+      <measure type="frequency" subtype="employment" count="6"/>
+      <measure type="frequency" subtype="application" count="8"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>57.7072326, 11.9670171</geo>
+      </location>
+    </place>
+    <place xml:id="klippan">
+      <placeName>Klippan</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.1340267, 13.1332245</geo>
+      </location>
+    </place>
+    <place xml:id="sörmland">
+      <placeName>Sörmland</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>58.9600248, 17.5332582</geo>
+      </location>
+    </place>
+    <place xml:id="smedstorp">
+      <placeName>Smedstorp</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>59.2991213, 14.4757671</geo>
+      </location>
+    </place>
+    <place xml:id="ousbyholm">
+      <placeName>Osbyholm</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.849256068117406, 13.611054042204561</geo>
+      </location>
+    </place>
+    <place xml:id="berlin">
+      <placeName>Berlin</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>52.5173885, 13.3951309</geo>
+      </location>
+    </place>
+    <place xml:id="fogdarp">
+      <placeName>Fogdarp</placeName>
+      <measure type="frequency" subtype="employment" count="2"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.8285486, 13.535959</geo>
+      </location>
+    </place>
+    <place xml:id="karlshamn">
+      <placeName>Karlshamns</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="4"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.25, 14.866667</geo>
+      </location>
+    </place>
+    <place xml:id="svendborg">
+      <placeName>Svendborg</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.0636625, 10.6084725</geo>
+      </location>
+    </place>
+    <place xml:id="danmark">
+      <placeName>Danmark</placeName>
+      <measure type="frequency" subtype="employment" count="7"/>
+      <measure type="frequency" subtype="application" count="5"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.670249, 10.3333283</geo>
+      </location>
+    </place>
+    <place xml:id="billesholm">
+      <placeName>Billesholm</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="4"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.05976486944111, 12.974747531566988</geo>
+      </location>
+    </place>
+    <place xml:id="gardveda">
+      <placeName>Gårdveda</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>57.381128, 15.7517555</geo>
+      </location>
+    </place>
+    <place xml:id="örtefta">
+      <placeName>Örtofta</placeName>
+      <measure type="frequency" subtype="employment" count="3"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.78468519927607, 13.247767746675956</geo>
+      </location>
+    </place>
+    <place xml:id="ramlösa">
+      <placeName>Ramlösa</placeName>
+      <measure type="frequency" subtype="employment" count="1"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.02163425373565, 12.74295967756088</geo>
+      </location>
+    </place>
+    <place xml:id="skarhult">
+      <placeName>Skarhult</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.8015929, 13.3789881</geo>
+      </location>
+    </place>
+    <place xml:id="höganäs">
+      <placeName>Höganäs</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.2, 12.566667</geo>
+      </location>
+    </place>
+    <place xml:id="jönköping">
+      <placeName>Jönköping</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>57.7825634, 14.165719</geo>
+      </location>
+    </place>
+    <place xml:id="gärsnäs">
+      <placeName>Gärsnäs</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.5459169, 14.1853336</geo>
+      </location>
+    </place>
+    <place xml:id="kalmar">
+      <placeName>Kalmar</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>56.6628826, 16.3662382</geo>
+      </location>
+    </place>
+    <place xml:id="slagelse">
+      <placeName>Slagelse</placeName>
+      <measure type="frequency" subtype="employment" count="7"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.4061196, 11.3525415</geo>
+      </location>
+    </place>
+    <place xml:id="dalarna">
+      <placeName>Dalarna</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="3"/>
+      <location>
+        <geo>61.0603779, 14.2151224</geo>
+      </location>
+    </place>
+    <place xml:id="arlöf">
+      <placeName>Arlöv</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="3"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.640101920314024, 13.087807697846186</geo>
+      </location>
+    </place>
+    <place xml:id="trelleborg">
+      <placeName>Trelleborg</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.37592, 13.1461522</geo>
+      </location>
+    </place>
+    <place xml:id="hellerup">
+      <placeName>Hellerup</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="2"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.7336657,12.5655408</geo>
+      </location>
+    </place>
+    <place xml:id="norrländska">
+      <placeName>Norrland</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="7"/>
+      <location>
+        <geo>62.446029, 17.3286039</geo>
+      </location>
+    </place>
+    <place xml:id="värmländska">
+      <placeName>Värmland</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="0"/>
+      <measure type="frequency" subtype="residence" count="7"/>
+      <location>
+        <geo>59.71506633248538, 13.06047934800069</geo>
+      </location>
+    </place>
+    <place xml:id="karlskoga">
+      <placeName>Karlskoga</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="7"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>59.3291667, 14.5176911</geo>
+      </location>
+    </place>
+    <place xml:id="linköping">
+      <placeName>Linköping</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="5"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>58.4098135, 15.6245252</geo>
+      </location>
+    </place>
+    <place xml:id="lyngby">
+      <placeName>Lyngby</placeName>
+      <measure type="frequency" subtype="employment" count="0"/>
+      <measure type="frequency" subtype="application" count="1"/>
+      <measure type="frequency" subtype="residence" count="0"/>
+      <location>
+        <geo>55.7718649, 12.5051413</geo>
+      </location>
+    </place>
+  </listPlace>
+</standOff>
+</teiHeader>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-26">26. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_26_SD_PS_001">
+                <p>
+                    <age value="19">19-årig</age>
+                    <person sex="female" role="employee">bättre flicka</person> önskar plats från <date when="1906-04-01" type="begin">1 april</date> i <placeName type="employment">aktningsvärdt större hem eller herregård</placeName>, för <state type="aim">att gå frun till handa</state> och i öfrigt <state type="reason">få lära och deltaga i förekommande hushållsgöromål</state>. <state type="requirement">Fritt vivre önskas</state>, samt att <state type="requirement">få anses som familjemedlem</state>. Svar till '<label>Villig 19 år</label>' under adress <person sex="unspecified" role="mediator">S. Gumælii Annonsbyrå</person>, <placeName type="application" ref="#stockholm">Stockholm</placeName>. <idno type="advertisement">G 4552</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

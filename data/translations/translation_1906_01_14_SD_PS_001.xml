@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-14">14. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="translation_1906_01_14_SD_PS_001">
+                <div type="translation">
+                    <p>Für ein <age value="17">junges 17-jähriges</age> <person type="female" role="employee">Mädchen</person> <ref type="reference">aus besserer Familie</ref>, die willig ist bei <state type="aim">allen in einem Haus aufkommenden Aufgaben</state> zu helfen, wird <state type="requirement">gegen freies Wohnen</state> entweder <date type="begin">unmittelbar oder zum 1. Februar</date> eine Stelle, am liebsten in einem <placeName type="employment">Pfarrhaus oder einem besseren Heim auf dem Land</placeName>, gesucht. Antworten mit '<label>Ung flicka</label>' <address type="application">poste restante</address> <placeName type="application" ref="#engelholm">Engelholm</placeName>. <idno type="advertisement">GAM 136397</idno>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

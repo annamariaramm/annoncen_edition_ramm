@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-11-24">24. November 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_11_24_SD_LP_001">
+                <p>
+                    <state type="character">Troende</state>
+                    <person sex="female" role="employee">
+                        <occupation>värdinna</occupation>
+                    </person> sökes för <person sex="male" role="employer">köpmannshem</person> i <placeName type="employment">mindre skånsk stad</placeName>. Önskemål äro, <faith>förutom kristligt sinne</faith>, <trait type="skill">vana</trait> och <trait type="skill">begåfning att med ordning och trefnad sköta ett hem</trait>. <state type="requirement">Tjänarinnor finnas</state>. Svar med <ref type="reference">rekommendationer och referenser samt helst fotografi</ref> som återsändes emotses till '<label>L. J.</label>' <address type="application">Sv. Telegrambyråns Annonsafdelning</address>, <placeName type="application" ref="#helsingborg">Helsingborg</placeName>. <idno type="advertisement">STAH 12718</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

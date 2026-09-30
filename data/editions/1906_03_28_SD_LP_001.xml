@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-03-28">28. März 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_03_28_SD_LP_001">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Hushållerska</occupation>
+                    </person> samt <person sex="female" role="employee">
+                        <occupation>kökspiga</occupation>
+                    </person> erhålla plats den <date when="1906-04-24" type="begin">24 April</date> å <placeName type="employment">Rönnebergs Gård</placeName>, <placeName type="employment" ref="#tagarp">Tågarp</placeName>. <ref type="reference">Goda rekommendationer</ref> erfordras. <person sex="female" role="application">Ebba Mark, f. von Geijer</person>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

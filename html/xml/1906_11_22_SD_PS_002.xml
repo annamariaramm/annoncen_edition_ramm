@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-11-22">22. November 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_11_22_SD_PS_002">
+                <p>Plats sökes som <occupation>värdinna</occupation> å <placeName type="employment">större landtbruk</placeName> i <placeName type="employment" ref="#skane">Skåne</placeName> att <state type="aim">sköta hushållet</state> och <state type="aim">i öfrigt förestå hemmet</state> af <trait type="character">sparsam</trait> och <trait type="character">huslig</trait>
+                    <age value="38">38 års</age>
+                    <person sex="female" role="employee">dam</person>. Svar under '<label>M. L.</label>' <address type="application">poste restante</address>
+                    <placeName type="application" ref="#landskrona">Landskrona</placeName>. <idno type="advertisement">STM 138678</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

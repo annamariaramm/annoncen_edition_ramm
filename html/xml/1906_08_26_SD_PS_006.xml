@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-26">26. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_26_SD_PS_006">
+                <p>
+                    <occupation>Nätta kokerskeplatser</occupation> inom <placeName type="employment" ref="#malmö">Malmö</placeName> sökas den <date notAfter="1906-10-28" type="begin">28 Okt.</date> af <ref type="reference">2:ne välrek</ref>, <person sex="female" role="employee">kokerskor</person>, som <trait type="skill">lärt matlagning</trait> och derefter <trait type="experience">innehaft platser i finare privathus</trait>. <person sex="unspecified" role="mediator">Rydows Agentur</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. Tel. <num type="phone">1477</num>. (<idno type="advertisement">STM. 134530</idno>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

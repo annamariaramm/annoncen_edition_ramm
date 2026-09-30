@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-03-30">30. März 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_03_30_SD_LP_001">
+                <p>En <person sex="male" role="employee">
+                        <occupation>Dreng</occupation>
+                    </person>, der er <trait type="skill">vant til at imgaaes Heste</trait>, <state type="requirement">helst fra en Officersstald</state>, kan faa Plads i <placeName type="employment">Herskabsstalden</placeName> paa <placeName type="employment" ref="#taarnborg">Taarnborg</placeName>
+                    <address type="application">pr</address>
+                    <placeName type="application" ref="#korsor">Korsør</placeName> til <date when="1906-05-01" type="begin">1 Maj</date>. <person sex="male" role="mediator">Premierløjtnant P. de Neergaard</person>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

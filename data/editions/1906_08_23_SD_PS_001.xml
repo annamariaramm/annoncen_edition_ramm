@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-23">23. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_23_SD_PS_001">
+                <p>
+                    <occupation>Värdinneplats</occupation> sökes af <trait type="character">intelligent</trait>, <trait type="character">bildad</trait>, <trait type="skill">musikalisk</trait>
+                    <person sex="female" role="employee">flicka</person> med <trait type="skill">friskt och trefligt lynne</trait> samt <trait type="skill">vana att sköta ett hem i alla detaljer</trait>. <ref type="reference">Utmärkta referenser</ref>. Svar till '<label>Fru Z.</label>', <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">GAM 147062</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

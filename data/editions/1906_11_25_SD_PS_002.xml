@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-11-25">25. November 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_11_25_SD_PS_002">
+                <p>
+                    <trait type="character">Barnkär</trait>, <trait type="skill">musikalisk</trait>, <trait type="character">bildad</trait>
+                    <person sex="female" role="employee">Flicka</person>, (<person sex="female" role="employee">prestdotter</person>) <age type="approximate">omkring 30 år</age>, önskar plats <date notAfter="1907-01-01" type="begin">nu genast eller på nyåret</date> i <person sex="unspecified" role="employer">familj</person> eller att <state type="aim">på egen hand förestå ett hem</state>, helst <placeName type="employment">uppåt Vestkusten</placeName>. Svar till '<label>E. H.</label>' <street type="application">Clemenstorget 10</street>, <placeName type="application" ref="#lund">Lund</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

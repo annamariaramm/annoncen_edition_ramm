@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-03">03. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_03_SD_PS_001">
+                <p>
+                    <trait type="character">Barnlös</trait>, <person sex="female" role="employee">bättre tjenstemannaenka</person> önskar <occupation>förestå hemmet</occupation> hos <person sex="male" role="employer">ungherre</person> eller <person sex="male" role="employer">änkling</person>. Är <trait type="skill">kunnig uti matlagning</trait>; <trait type="skill">kan språk, isynnerhet tyska</trait>, och är <trait type="skill">musikalisk</trait>. Är äfven <state type="aim">villig hjälpa med skrifgöromål</state>. Benäget svar torde sändas till '<label>Enka</label>', <person sex="unspecified" role="mediator">Sydsvenska Dagbladet Snällpostens Annonskontor</person>, <street type="application">Östergatan 32</street>, f. v. b.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

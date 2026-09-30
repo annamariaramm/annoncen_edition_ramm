@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-16">16. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_16_SD_PS_002">
+                <p>
+                    <trait type="character">Anspråkslös</trait>, <person sex="female" role="employee">bättre flicka</person>, som <trait type="experience">genomgått hushållsskola</trait>, <trait type="skill">vand vid husliga sysslor</trait>, <trait type="skill">kunnig i linsömnad</trait>, önskar plats i <person sex="unspecified" role="employer">större familj</person> eller <placeName type="employment">herregård</placeName> att <state type="aim">vara husmodern till hjälp</state>. Svar märkt '<label>God hjälp</label>', adress <address type="application">Höganäs Tidning</address>
+                    <placeName type="application" ref="#högenäs">Höganäs</placeName> Tidning, Häganäs. <idno type="application">LB 3552</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

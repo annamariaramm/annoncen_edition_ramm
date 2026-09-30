@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-10-05">05. Oktober 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_10_05_SD_PS_001">
+                <p>
+                    <age type="approximate">Ung</age>, <trait type="character">anspråkslös</trait>
+                    <person sex="female" role="employee">flicka af god familj</person> önskar plats, mot <state type="requirement">fritt vivre</state> och <state type="requirement">någon liten lön</state>, i <person sex="unspecified" role="employer">bättre familj</person> som <occupation>hjälp och sällskap i hemmet</occupation>. Önsar äfven <state type="aim">biträda med skrifgöromål om sådana förekomma</state>. Reflekterande härå torde <date type="apply">fortast möjligt</date> insända svar till '<label>Familjemedlem</label>', <address type="application">Svenska Telegrambyrån</address>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="application">STM 136700</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

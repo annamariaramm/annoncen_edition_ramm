@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-05">05. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_05_SD_PS_003">
+                <p>
+                    <state type="marital">Förlofvad</state>, <trait type="character">bildad</trait>
+                    <person sex="female" role="employee">bättre flicka</person> önskar <date when="1906-09-01" type="begin">i början af Sept.</date> plats på <placeName type="employment">större herregård</placeName> eller <placeName type="employment">gods</placeName>, <state type="requirement">helst där ungdom finnes</state>, för <occupation>att komplettera sig i matlagning</occupation>. <trait type="skill">Musikalisk</trait>. <trait type="experience">Innehaft mångårig plats som sällskap och hjälp</trait>. <state type="requirement">På lön fästes mindre afseende än ett välordnadt hem.</state> Svar emotses tacksamt <date type="apply">inom 14 dagar</date> till '<label>God hjälp</label>', <placeName type="application" ref="#karlshamn">Karlshamns</placeName>
+                    <address type="application">p. r.</address>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

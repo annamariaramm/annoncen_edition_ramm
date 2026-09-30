@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-09-01">01. September 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_09_01_SD_LP_001">
+                <p>En <trait type="character">ordningsfull</trait> och <trait type="character">snäll</trait>
+                    <person sex="female" role="employee">jungfru</person>, <trait type="skill">fullt kunnig i matlagning</trait>, erhåller plats i <placeName type="employment" ref="#malmö">Malmö</placeName>
+                    <date when="1906-10-24" type="begin">instundande 24 Oktober</date> i <person sex="unspecified" role="employer">familj bestående af 3 personer</person>. <state type="requirement">Städerska finnes</state>. Biljett märkt '<label>A. E.</label>', <address type="application">Svenska Telegrambyrån</address>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">STM 135014</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

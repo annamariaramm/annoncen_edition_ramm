@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-07">07. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_07_SD_LP_001">
+                <p>Plats finnes för <age type="approximate">ung</age>
+                    <person sex="female" role="employee">flicka af god familj</person> att <state type="reason">lära hushåll</state> i <placeName type="employment">bildadt hem</placeName>, beläget i vacker trakt af  <placeName type="employment" ref="#skane">Skåne</placeName>. Kan äfven om så önskas meddelas <state type="aim">undervisning i handarbete och konstväfnad</state>. <state type="requirement">Priset moderat</state>. Svar till 'Godt hem', <placeName type="application" ref="#löfvestad">Löfvestad</placeName>
+                    <address type="application">p. r.</address>
+                    <idno type="advertisement">GAM 142452</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

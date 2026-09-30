@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-17">17. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_17_SD_PS_002">
+                <p>
+                    <age type="aproximate">Ung</age>
+                    <trait type="character">bildad</trait>
+                    <person sex="female" role="employee">tyska af god familj</person> önskar <date type="begin">under sommaren</date> plats som <occupation>sällskap och hjälp</occupation> i svenskt bättre hem, helst i <placeName type="employment" ref="#skane">Skåne</placeName>. Villig att bibringa ungdom, om så finnes, <state type="aim">undervisning i sitt modersmål</state>. Svar till '<label>20 år</label>', <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">GAM 142946</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

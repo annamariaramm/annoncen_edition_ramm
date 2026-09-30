@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-07-22">22. Juli 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_07_22_SD_LP_002">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Barnsköterska</occupation>
+                    </person>, <age type="approximate">helst icke för ung</age>, <trait type="character">barnkär</trait> och som är <state type="requirement">villig att sköta ett 6 veckors gammalt barn</state>, kan erhålla förmånlig anställning <date type="begin">genast</date> hos <person sex="unspecified" role="employer">familj</person> under sommarmånaderna i <placeName type="employment" ref="#varberg">Varberg</placeName> och möjligen därefter i <placeName type="employment" ref="#göteborg">Göteborg</placeName>. Reflekterande härå torde <date type="apply">snarast möjligt</date> inlämna biljett med <ref type="reference">uppgift om ålder och förut innehafda platser</ref> till <person sex="unspecified" role="mediator">Gumælii Annonsbyrå</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. Märkt '<label>Barnkär</label>', <idno type="advertisement">GAM 145036</idno>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-08">08. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_08_SD_PS_002">
+                <p>
+                    <person sex="female" role="employee">
+                        <occupation>Värdinna</occupation>
+                    </person>. En <age type="approximate">medelålders</age>
+                    <trait type="character">bildad</trait> dam önskar plats som värdinna för <person sex="male" role="employer">äldre herre</person> eller som <occupation>sällskap</occupation> hos <person sex="female" role="employer">äldre dam</person>. <state role="requirement">Ej i hem, där mindre barn finnes</state>. Svar till <placeName type="application" ref="#hammarskjöld">Hammarskjöld</placeName>, telefon <num role="phone">1504</num>, <placeName type="application" ref="#malmö">Malmö</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-01-28">28. Januar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="translation_1906_01_28_SD_LP_001">
+                <div type="translation">
+                    <p><person sex="female" role="employee">
+                        <occupation>Haushälterin</occupation>
+                    </person>., eine <trait type="character">geschickte</trait> und <trait type="skill">in allen Angelegenheiten kompetente</trait> Haushälterin, mit <ref type="reference">guten Noten und Referenzen</ref> erhällt zum <date when="1906-04-24">24. des kommenden Aprils</date> eine Stelle in <placeName type="employment" ref="#trolleholm">Trolleholm</placeName>. Rückmeldungen an <person sex="female" role="employer">Gräfin E. Trolle Bende</person>, Adresse Trolleholm. <idno type="advertisement">STM 124123</idno>.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

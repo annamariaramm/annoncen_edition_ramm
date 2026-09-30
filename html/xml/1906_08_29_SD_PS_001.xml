@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-08-29">29. August 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_08_29_SD_PS_001">
+                <p>Som <occupation>husförest.</occupation> eller <occupation>hushållerska</occupation> söker <person sex="female" role="employee">bättre flicka</person>, <age value="27">27 år</age>, treflig plats till <date when="1906-10-01" type="begin">1 Okt.</date>
+                    <trait type="experience">Innehaft likn. under 5 år</trait>. <ref type="reference">Fina ref.</ref>
+                    <trait type="skill">Fullt kompetent</trait>. Svar till <person sex="unspecified" role="mediator">G. Larsson</person>, <street type="application">St. Tomegatan 25</street>, <placeName type="application" ref="#lund">Lund</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

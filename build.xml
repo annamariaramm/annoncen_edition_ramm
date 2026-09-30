@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+    <property name="index" value="./data/meta/about.xml"/>
+    <property name="target" value="./html"/>
+    <property name="target_xml" value="./html/xml-view"/>
+    <delete>
+        <fileset dir="${target}" includes="*.html"/>
+    </delete>
+    <xslt in="${index}" out="${target}/index.html" style="./xslt/index.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="${index}" out="${target}/404.html" style="./xslt/404.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt
+        style="./xslt/detail.xsl"
+        basedir="./data/editions"
+        destdir="${target}"
+        includes="*.xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <copy todir="${target}/xml">
+        <fileset dir="./data/editions">
+            <include name="*.xml"/>
+        </fileset>
+    </copy>
+
+    <xslt in="${index}" out="${target}/overview.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="1"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-02.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="2"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-03.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="3"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-04.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="4"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-05.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="5"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-06.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="6"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-07.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="7"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-08.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="8"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-09.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="9"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-10.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="10"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-11.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="11"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/overview-12.html" style="./xslt/month_overview.xsl">
+        <param name="month" expression="12"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt
+        in="${index}"
+        out="${target}/day_overview-build.html"
+        style="./xslt/day_overview.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <delete file="${target}/day_overview-build.html"/>
+
+    <xslt in="${index}" out="${target}/project-description.html" style="./xslt/meta.xsl">
+        <param name="section" expression="project-description"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/historical-context.html" style="./xslt/meta.xsl">
+        <param name="section" expression="historical-context"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/data.html" style="./xslt/meta.xsl">
+        <param name="section" expression="data"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/edition.html" style="./xslt/meta.xsl">
+        <param name="section" expression="edition"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <!-- Erzeugung der Erweiterten Suche und des Suchindex -->
+    <xslt in="./data/editions/1906_01_03_SD_PS_001.xml" out="${target}/search.html" style="./xslt/search.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <!-- Ortsübersicht -->
+    <xslt in="./data/xml/listplace.xml" out="${target}/listplace.html" style="./xslt/listplace.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+   
+
+    <xslt
+        in="${index}"
+        out="${target}/listperson.html"
+        style="./xslt/listperson.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/statistics.html" style="./xslt/statistics.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/> 
+        <classpath location="${basedir}/saxon/saxon9he.jar"/> 
+    </xslt>
+
+
+
+
+
+    <xslt in="${index}" out="${target}/noske-search.html" style="./xslt/noske-search.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+
+    <xslt in="./data/imprint.xml" out="${target}/api.xml" style="./xslt/api.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken> xmlns=""</replacetoken>
+    </replace>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken>xmlns:tei="http://www.tei-c.org/ns/1.0"</replacetoken>
+    </replace>
+
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken>xmlns="http://www.w3.org/1999/xhtml"</replacetoken>
+    </replace>
+    <copy todir="${target}" flatten="true">
+        <fileset dir="./data/">
+            <include name="**/*.xml"/>
+        </fileset>
+    </copy>
+</project>

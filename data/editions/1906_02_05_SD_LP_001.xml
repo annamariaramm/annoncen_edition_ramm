@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906</title>
+                <editor>Anna Maria Ramm</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-02-05">05. Februar 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_02_05_SD_LP_001">
+                <p>En <trait type="character">ordningsfull</trait>, <trait type="character">snäll</trait> och <trait type="character">ärlig</trait>
+                    <person sex="female" role="employee">Flicka</person>, som <trait type="skill">på egen hand fullständigt kan sköta om ett hushåll för en eller två personer</trait>, erhåller plats <date type="begin">snarast</date>. Svar till '<label>Ordningsfull</label>', <person role="mediator">Sv. Telegrambyrån</person>, <placeName type="application" ref="#malmö">Malmö</placeName>. <idno type="advertisement">STM 124499</idno>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

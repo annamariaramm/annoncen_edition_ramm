@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellenanzeigen im Sydsvenska Dagbladet, 1906 1906_05_12_SD_PS_001</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digitale Edition im Rahmen eines Uniprojekts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sydsvenska Dagbladet</title>
+                    <date when="1906-05-12">12. Mai 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="1906_05_12_SD_PS_001">
+                <p>
+                    <age type="aproximate">Ung</age>, <person sex="female" role="employee">bättre flicka</person> önskar plats i <person sex="unspecified" role="employer">familj</person> som <occupation>sällskap och hjälp</occupation> eller ock på <placeName type="employment">kontor</placeName>. <trait type="experience">Genomgått elementarläroverk</trait>. Svar emotses tacksamt under sign. '<label>19 år</label>', <address type="application">p. r.</address>, <placeName type="application" ref="#landskrona">Landskrona</placeName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
